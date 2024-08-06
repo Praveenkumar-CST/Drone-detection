@@ -12,11 +12,6 @@ Prerequisites
 Python 3.x
 Required Python packages (listed in requirements.txt)
 Setup
-Clone the repository:
-
-bash
-Copy code
-git clone https://github.com/yourusername/drone-detection.git
 Navigate to the project directory:
 
 bash
